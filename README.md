@@ -41,7 +41,7 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: P.SYAM TEJ
 RegisterNumber:212221240056
 
-## HALF ADDER
+### HALF ADDER
 
 module Adder(a,b,sum,carry);
 input a,b;
@@ -50,7 +50,7 @@ xor(sum,a,b);
 and(carry,a,b);
 endmodule 
 
-## FULL ADDER
+### FULL ADDER
 
 module FullAdder(a,b,c,sum,carry);
 input a,b,c;
