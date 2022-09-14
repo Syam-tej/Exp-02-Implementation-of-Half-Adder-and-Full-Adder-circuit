@@ -61,7 +61,6 @@ endmodule
 ~~~
 ### Output:
 ### HALF ADDER
-### Logic symbol & Truthtable
 ### RTL realization
 ![exp-2](https://user-images.githubusercontent.com/93427224/190240271-cb1f513c-b75e-4038-81ce-966a436b3403.png)
 
